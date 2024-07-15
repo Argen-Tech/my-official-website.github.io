@@ -1,0 +1,78 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "perfect" 
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": " very Good "
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": " Good"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Graphics Design",
+      "description": " Good"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/fruit 1.jpg",
+      "title": "Ethio Fruit" ,
+      "description": " very interesting  E- commerce website.The E-commerce website for a Fruit Supermarket is an online platform where customers can conveniently shop for a wide variety of fresh fruits from the comfort of their homes. This virtual marketplace provides a user-friendly interface, enabling customers to browse through an extensive selection of fruits, from seasonal favorites to exotic imports. Shoppers can easily add items to their virtual cart, specify quantities, and proceed to a secure checkout process.  "
+      , 
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/fire alarm.jpg",
+      "title": "Automatic Fire Alarm & Control System ",
+      "description": "This   Project is a smart safety system that helps protect buildings and Humans from fire. It uses special sensors to watch for signs of smoke or fire. When it detects danger, it sounds alarms, like loud sensors and flashing lights, to warn people. It can also send messages to phones and computers to let everyone know there's a problem. This system can even take action to stop the fire, like turning on sprinklers or closing doors. It's like having a helpful guardian that keeps everyone safe from fires. ",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Real State",
+      "description": " now , on progressing ...",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
